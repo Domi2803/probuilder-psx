@@ -53,7 +53,7 @@ Material:
     - _Blend: 0
     - _BlendOp: 0
     - _ColorMask: 15
-    - _Cull: 2
+    - _Cull: 0
     - _DoubleSidedNormalMode: 0
     - _DrawDistanceOverrideMode: 0
     - _DstBlend: 10
