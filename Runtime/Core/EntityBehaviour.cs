@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 namespace UnityEngine.ProBuilder
 {
-    abstract class EntityBehaviour : MonoBehaviour
+    public abstract class EntityBehaviour : MonoBehaviour
     {
         [Tooltip("Allow ProBuilder to automatically hide and show this object when entering or exiting play mode.")]
         public bool manageVisibility = true;
